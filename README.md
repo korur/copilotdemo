@@ -35,6 +35,6 @@ npm install
 npm run dev
 ```
 
-Ensure that you have node.js or above.
+Ensure that you have node.js 18 or above.
 
 The project should be up and running at http://localhost:5173/
